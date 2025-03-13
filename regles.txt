@@ -1,0 +1,10 @@
+# Les ciseaux coupent le papier,
+# le papier bat la pierre,
+# la pierre écrase le lézard,
+# le lézard empoisonne Spock.
+# Spock écrabouille les ciseaux,
+# les ciseaux décapitent le lézard,
+# le lézard mange le papier,
+# le papier repousse Spock,
+# Spock détruit la pierre.
+# La pierre bat les ciseaux
